@@ -1,0 +1,14 @@
+﻿type,code,name,file_name,description,photos
+자원,LR-001,일산호수공원,Resource_all,일산호수공원은 고양시의 대표적인 호수공원,https://drive.google.com/file/d/10gpO_iZ71Ogm6QWo54BkEzasKxrxxDGt/view?usp=drive_link
+자원,LR-002,북한산국립공원,Resource_all,북한산 뷰 짱,https://drive.google.com/file/d/1N8iUVNkWUPiUJd_VnUL-HgvSKGuemzM6/view?usp=drive_link
+자원,LR-003,서오릉,Resource_all,서오릉은 유네스코 세계문화유산,https://drive.google.com/file/d/1Faphmv-8jM0CQ6kDrOsJ8pKN4UJtXe4t/view?usp=drive_link
+자원,LR-004,킨텍스,Resource_all,킨텍스는 제일 유명,https://drive.google.com/file/d/1K3Bh-rIlwcadrvZybVeClezbvRh7dNXQ/view?usp=drive_link
+자원,LR-005,고양행주산성,Resource_all,행주산성은 역사적으로 유명,https://drive.google.com/file/d/1VVdwsmBn24Am6VBrOwzgiOfP7JhPf5Ob/view?usp=drive_link
+요소(선),LE-001,누리길,HJS_Lt,누리길은 10개가 있음,https://drive.google.com/file/d/120krDTxjdLc0Ku7Wi6BkaceZ2OsPNMkT/view?usp=drive_link
+요소(선),BE-001,자유로,HJS_Lt,자유로는 파주까지,https://drive.google.com/file/d/1qqi4ymFwnIyT8dHWKFsnuo6ZbLZXFdo0/view?usp=drive_link;https://drive.google.com/file/d/1qqi4ymFwnIyT8dHWKFsnuo6ZbLZXFdo0/view?usp=drive_link
+요소(면),BE-004,맛집거리,HJS_At,국수 유명,https://drive.google.com/file/d/1sHkw3OeWMH9soEj0st48NcHs00k9hfT2/view?usp=drive_link
+요소(면),LE-005,휴게공간,HJS_At,곳곳에 있음,https://drive.google.com/file/d/1mnkRy7Km0fFirep3FzHU5bCDF4puWNba/view?usp=drive_link
+요소(점),LE-002,행주대첩비(재건),HJS_Pt,상징적,https://drive.google.com/file/d/1cAGLf4oD7_zXTPDag_5W_Hv2GefAeo8g/view?usp=drive_link;https://drive.google.com/file/d/1koJzUI10UGwqLlpz6zoH9ar7Z-rj_sgG/view?usp=drive_link
+요소(점),BE-002,행호정,HJS_Pt,조망장소,https://drive.google.com/file/d/1fg7TWm-UH3LI4YtPL-MPUkiRbd16aaYo/view?usp=drive_link
+요소(점),etc-001,주차장,HJS_Pt,주차장,https://drive.google.com/file/d/1UHLjn3WbbDFdWLIcyzO1PPOeykOD89Fy/view?usp=drive_link
+조망점,VP-006,#6,HJS_VPt,행주대교랑 한강 조망 가능,https://drive.google.com/file/d/1adKlQp_5ax-7vDtO8HQUi_hztNiaB-MF/view?usp=drive_link

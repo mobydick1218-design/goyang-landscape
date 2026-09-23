@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"class":"LE","name":"누리길","code":"LE-001"},"geometry":{"type":"LineString","coordinates":[[126.822178,37.595607],[126.825288,37.59419]]}},{"type":"Feature","properties":{"class":"BE","name":"자유로","code":"BE-002"},"geometry":{"type":"LineString","coordinates":[[126.830774,37.598641],[126.832358,37.597075]]}}]}
