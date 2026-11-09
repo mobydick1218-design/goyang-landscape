@@ -7,7 +7,7 @@ window.SITE_CONFIG = {
   //  - 지금: 사이트 안의 photos 폴더 → "photos/"
   //  - R2로 옮긴 뒤: R2 공개 주소로 바꾸기 → 예) "https://pub-xxxx.r2.dev/photos/"
   // CSV에는 파일명만 적고, 여기 주소가 자동으로 앞에 붙습니다.
-  PHOTO_BASE: "photos/",
+  PHOTO_BASE: "",
 
   // 지도에 표시할 자원 (Resource_all의 BD 코드). 자원이 추가되면 여기에 코드만 추가.
   // (세부 조사결과가 없는 자원은 점과 경계만 표시됩니다)
